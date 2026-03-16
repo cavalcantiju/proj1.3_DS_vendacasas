@@ -15,7 +15,7 @@ Sem a constante: O preço seria 0 se as características fossem 0 (irrealista).
 
 Com a constante: O modelo ganha um "ponto de partida" (valor do terreno), tornando as previsões muito mais precisas.
 
-🛠️ 3. Evolução dos Modelos e Multicolinearidade
+ 3. Evolução dos Modelos e Multicolinearidade
 Durante o projeto, ajustamos 4 versões do modelo para resolver o aviso de "Condition number is large".
 
 O que é o Condition Number e Multicolinearidade?
